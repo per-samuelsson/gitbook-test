@@ -6,8 +6,8 @@
 
 Go to Gitbook.
 
-A. Integrations -> GitHub
-B. Choose the repository
-C. Export and see files end up in GH.
+1. Integrations -> GitHub
+2. Choose the repository
+3. Export and see files end up in GH.
 
 Done.
