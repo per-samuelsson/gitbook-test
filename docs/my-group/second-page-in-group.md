@@ -17,5 +17,3 @@ why is this text
 
 And here I am.
 
-
-
