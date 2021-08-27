@@ -12,6 +12,8 @@ Now testing here
 
 How about this
 
+Linking to other: [Second page in group](second-page-in-group.md#this-is-a-heading). Does it work?
+
 ## Hey
 
 there
