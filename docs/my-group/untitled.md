@@ -14,6 +14,12 @@ How about this
 
 Linking to other: [Second page in group](second-page-in-group.md#this-is-a-heading). Does it work?
 
+Here a link to private space: [https://app.gitbook.com/@per-samuelsson/s/testprivate/](https://app.gitbook.com/@per-samuelsson/s/testprivate/)
+
+Can I also \[link like this\]\([https://app.gitbook.com/@per-samuelsson/s/testprivate/](https://app.gitbook.com/@per-samuelsson/s/testprivate/)\).
+
+
+
 ## Hey
 
 there
