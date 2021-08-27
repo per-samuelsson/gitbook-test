@@ -18,6 +18,22 @@ Here a link to private space: [https://app.gitbook.com/@per-samuelsson/s/testpri
 
 Can I also \[link like this\]\([https://app.gitbook.com/@per-samuelsson/s/testprivate/](https://app.gitbook.com/@per-samuelsson/s/testprivate/)\).
 
+{% tabs %}
+{% tab title="First Tab" %}
+This is a test
+{% endtab %}
+
+{% tab title="Second Tab" %}
+And here's another
+{% endtab %}
+
+{% tab title="Third" %}
+Heres a third
+{% endtab %}
+{% endtabs %}
+
+
+
 
 
 ## Hey
