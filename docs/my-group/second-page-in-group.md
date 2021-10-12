@@ -6,7 +6,7 @@ description: This is it
 
 Test
 
-## \# myheading
+## # myheading
 
 why is this text
 
@@ -18,4 +18,3 @@ why is this text
 And here I am.
 
 Simple edit test.
-

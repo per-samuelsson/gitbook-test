@@ -16,7 +16,11 @@ Linking to other: [Second page in group](second-page-in-group.md#this-is-a-headi
 
 Here a link to private space: [https://app.gitbook.com/@per-samuelsson/s/testprivate/](https://app.gitbook.com/@per-samuelsson/s/testprivate/)
 
-Can I also \[link like this\]\([https://app.gitbook.com/@per-samuelsson/s/testprivate/](https://app.gitbook.com/@per-samuelsson/s/testprivate/)\).
+Can I also \[link like this]\([https://app.gitbook.com/@per-samuelsson/s/testprivate/](https://app.gitbook.com/@per-samuelsson/s/testprivate/)).
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 {% tabs %}
 {% tab title="First Tab" %}
@@ -53,4 +57,3 @@ two
 Three
 
 Thats it I guess
-
