@@ -7,8 +7,8 @@
 * [Second page in group](my-group/second-page-in-group.md)
 * [Untitled](my-group/untitled.md)
 
----
+***
 
 * [Untitled](untitled.md)
 * [NewPageFirstVariant](newpagefirstvariant.md)
-
+* [Copy of initial](copy-of-initial.md)
